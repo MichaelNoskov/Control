@@ -1,3 +1,4 @@
 {
-  "VOLUME": 100
+  "VOLUME": 100,
+  "STOP": 1
 }
